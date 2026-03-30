@@ -32,7 +32,7 @@ To ensure accessibility, this Power BI dashboard includes a **customized Mobile 
 ## 📸 Dashboard Preview
 
 ### Power BI Insights
-![Power BI Dashboard](images/p.bi%20pc.png)
+![Power BI Dashboard](images/p.bi%20pc.png)*The dashboard allows users to filter data by year, instantly updating all KPIs and charts.*
 ![Model View](images/P.bi%20model%20view%20.png)
 
 ### Mobile Layout
@@ -46,7 +46,7 @@ To ensure accessibility, this Power BI dashboard includes a **customized Mobile 
 ![Data Cleaning](images/cleaning%20excel.png)
 ![Excel main data](images/main%20data%20excel.png)
 
-*The dashboard allows users to filter data by year, instantly updating all KPIs and charts.*
+
 
 ## 🏁 Conclusion & Business Insights
 

@@ -66,3 +66,5 @@ and property valuation:
 ### 🎯 Final Thought
 By leveraging **Power BI** and **Advanced Excel**, this project demonstrates how raw data can be transformed into a strategic tool
 for real estate professionals, providing a data-driven foundation for pricing and investment decisions.
+
+## Note: Full raw data files and Power BI .pbix files are available upon request for verification or deeper technical review.

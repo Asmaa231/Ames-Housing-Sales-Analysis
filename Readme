@@ -8,7 +8,11 @@ I cleaned, processed, and visualized housing trends to identify key factors infl
 ## 🛠️ Tech Stack & Skills (Excel and Power Up)
 * **Microsoft Excel LTSC 2021:** Advanced formulas and data cleaning.
 
-* **Power Pivot & Data Model:** Creating relational data structures.
+* **Power Pivot &  Data Model:** Creating relational data structures.
+
+* **Power Measures & DAX formulas:** To calculate key performance indicators (KPIs) such as
+                                  Year-over-Year (YoY) Growth, Median Sales Price, and Running Totals,
+                                  ensuring dynamic and accurate real-time analysis across different neighborhoods.
 
 * **Interactive Dashboards:** Implementing **Slicers** and **Report Connections** for dynamic filtering.
 

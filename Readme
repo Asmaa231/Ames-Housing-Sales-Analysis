@@ -7,9 +7,18 @@ I cleaned, processed, and visualized housing trends to identify key factors infl
 
 ## 🛠️ Tech Stack & Skills (Excel and Power Up)
 * **Microsoft Excel LTSC 2021:** Advanced formulas and data cleaning.
+
 * **Power Pivot & Data Model:** Creating relational data structures.
+
 * **Interactive Dashboards:** Implementing **Slicers** and **Report Connections** for dynamic filtering.
+
 * **Data Visualization:** Pivot Charts, Trend Analysis, and YoY Growth metrics.
+
+* **📱Mobile-Optimized Design
+To ensure accessibility, this Power BI dashboard includes a **customized Mobile Layout**. 
+* User-Friendly Navigation:** Optimized for vertical scrolling and touch interaction.
+* On-the-go Insights:** Key KPIs (Sale Price & Growth Rate) are prioritized for mobile viewing.
+* Responsive Visuals:** Charts and slicers are rearranged for clarity on smaller screens.
 
 ## 📊 Key Insights
 * Identified a **Sharp Decline** in annual growth rate (approx -49.46%) in (2099-2010).

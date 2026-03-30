@@ -1,4 +1,4 @@
-# 🏠 Ames Housing Sales Analysis (2006-2010) (2742 houses) & Interactive Dashboard
+# 🏠 Ames Housing Sales Analysis of 2742 houses (2006-2010)  & Interactive Dashboard
 ### Transforming Raw Data into Strategic Real Estate Insights
 
 ## 📋 Project Overview
@@ -18,7 +18,7 @@ I cleaned, processed, and visualized housing trends to identify key factors infl
 
 * **Data Visualization:** Pivot Charts, Trend Analysis, and YoY Growth metrics.
 
-* **📱Mobile-Optimized Design
+* **📱Mobile-Optimized Design**
 To ensure accessibility, this Power BI dashboard includes a **customized Mobile Layout**. 
 * User-Friendly Navigation:** Optimized for vertical scrolling and touch interaction.
 * On-the-go Insights:** Key KPIs (Sale Price & Growth Rate) are prioritized for mobile viewing.
@@ -30,15 +30,39 @@ To ensure accessibility, this Power BI dashboard includes a **customized Mobile 
 * Ranked the **Top 5 Premium Neighborhoods** by total sales volume.
 
 ## 📸 Dashboard Preview
-![Ames Dashboard Screenshot]
-   - Power bi dashboard     (images/P.bi.png)
-   - Power bi model view    (images/P.bi model view .png)
-   - Power bi Mobile layout (images/P.bi Mobile 1.png)
-                            (images/P.bi Mobile 2.png)  
-                            (images/P.bi Mobile 3.png) 
-                            (images/P.bi Mobile 4.png)
-   - Excel dashboard      (images/final dash excel.png) 
-   - Excel cleaning data  (images/cleaning excel.png)
-   - Excel main data      (images/main data excel.png)
+
+### Power BI Insights
+![Power BI Dashboard](images/P.bi.png)
+![Model View](images/P.bi%20model%20view%20.png)
+
+### Mobile Layout
+<p align="center">
+  <img src="images/P.bi%20Mobile%201.png" width="200" />
+  <img src="images/P.bi%20Mobile%202.png" width="200" /> 
+</p>
+
+### Excel Processing
+![Excel Dashboard](images/final%20dash%20excel.png)
+![Data Cleaning](images/cleaning%20excel.png)
+![Excel main data](images/main%20data%20excel.png)
 
 *The dashboard allows users to filter data by year, instantly updating all KPIs and charts.*
+
+## 🏁 Conclusion & Business Insights
+
+The analysis of the **Ames Housing Dataset** reveals several critical trends that directly impact real estate investment 
+and property valuation:
+
+ **Market Volatility:** The sharp decline in the annual growth rate (~49.46%) between 2009 and 2010
+                     reflects the broader economic impact of the global financial crisis on the Ames housing market.
+                  
+ **Value Drivers:** There is a strong positive correlation between **Lot Area** and **Sale Price**, but this varies significantly by neighborhood.
+                   Premium neighborhoods like **Northridge** and **Somerset** consistently command higher prices regardless of lot size,
+                   indicating high demand for location-specific prestige.
+                   
+ **Strategic Recommendations:** Investors should focus on the "Top 5 Neighborhoods" identified in this dashboard,
+                              as they show the most stable sales volume and value retention over the 5-year period.
+
+### 🎯 Final Thought
+By leveraging **Power BI** and **Advanced Excel**, this project demonstrates how raw data can be transformed into a strategic tool
+for real estate professionals, providing a data-driven foundation for pricing and investment decisions.

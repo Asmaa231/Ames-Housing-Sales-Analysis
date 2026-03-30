@@ -1,0 +1,21 @@
+# 🏠 Ames Housing Sales Analysis (2006-2010)  & Interactive Dashboard
+### Transforming Raw Data into Strategic Real Estate Insights
+
+## 📋 Project Overview
+This project involves a comprehensive analysis of the **Ames Housing Dataset**. Using advanced Excel techniques,
+I cleaned, processed, and visualized housing trends to identify key factors influencing property prices in Ames, Iowa.
+
+## 🛠️ Tech Stack & Skills (Excel and Power Up)
+* **Microsoft Excel LTSC 2021:** Advanced formulas and data cleaning.
+* **Power Pivot & Data Model:** Creating relational data structures.
+* **Interactive Dashboards:** Implementing **Slicers** and **Report Connections** for dynamic filtering.
+* **Data Visualization:** Pivot Charts, Trend Analysis, and YoY Growth metrics.
+
+## 📊 Key Insights
+* Identified a **Sharp Decline** in annual growth rate (approx -49.46%) in (2099-2010).
+* Visualized the correlation between **Lot Area** and **Sales Price** across different neighborhoods.
+* Ranked the **Top 5 Premium Neighborhoods** by total sales volume.
+
+## 📸 Dashboard Preview
+![Ames Dashboard Screenshot](your-image-link-here.png)
+*The dashboard allows users to filter data by year, instantly updating all KPIs and charts.*

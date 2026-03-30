@@ -32,7 +32,7 @@ To ensure accessibility, this Power BI dashboard includes a **customized Mobile 
 ## 📸 Dashboard Preview
 
 ### Power BI Insights
-![Power BI Dashboard](images/P.bi.png)
+![Power BI Dashboard](images/p.bi%20pc.png)
 ![Model View](images/P.bi%20model%20view%20.png)
 
 ### Mobile Layout

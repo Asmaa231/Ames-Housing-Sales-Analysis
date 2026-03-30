@@ -26,5 +26,14 @@ To ensure accessibility, this Power BI dashboard includes a **customized Mobile 
 * Ranked the **Top 5 Premium Neighborhoods** by total sales volume.
 
 ## 📸 Dashboard Preview
-![Ames Dashboard Screenshot](your-image-link-here.png)
+![Ames Dashboard Screenshot]
+   - Power bi dashboard (images/P.bi.png)
+   - Power bi Mobile layout (images/P.bi Mobile 1.png)
+                            (images/P.bi Mobile 2.png)  
+                            (images/P.bi Mobile 3.png) 
+                            (images/P.bi Mobile 4.png)
+   - Excel dashboard      (images/final dash excel.png) 
+   - Excel cleaning data  (images/cleaning excel.png)
+   - Excel main data      (images/main data excel.png)
+
 *The dashboard allows users to filter data by year, instantly updating all KPIs and charts.*

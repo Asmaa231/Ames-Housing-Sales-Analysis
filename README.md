@@ -1,4 +1,4 @@
-# 🏠 Ames Housing Sales Analysis of 2742 houses (2006-2010)  & Interactive Dashboard
+# 🏠 Ames Housing Sales Analysis (2006–2010): Analyzing 2,742 Records with an Interactive Dashboard
 ### Transforming Raw Data into Strategic Real Estate Insights
 
 ## 📋 Project Overview

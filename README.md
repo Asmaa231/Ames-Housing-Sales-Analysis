@@ -29,6 +29,11 @@ To ensure accessibility, this Power BI dashboard includes a **customized Mobile 
 * Visualized the correlation between **Lot Area** and **Sales Price** across different neighborhoods.
 * Ranked the **Top 5 Premium Neighborhoods** by total sales volume.
 
+## 📺 Project Walkthrough & Demo
+Click the image below to watch the interactive dashboard in action:
+
+[![Ames Housing Dashboard Demo](https://img.youtube.com/vi/2s7oZXiXLjE/0.jpg)](https://www.youtube.com/watch?v=2s7oZXiXLjE)
+
 ## 📸 Dashboard Preview
 
 ### Power BI Insights

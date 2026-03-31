@@ -1,4 +1,4 @@
-# 🏠 Ames Housing Sales Analysis (2006–2010): Analyzing 2,742 Records with an Interactive Dashboard
+# 🏠 Ames Housing Sales Analysis (2006–2010): Analyzing 2,742 Records with an Interactive Power BI & Excel Dashboards
 ### Transforming Raw Data into Strategic Real Estate Insights
 
 ## 📋 Project Overview

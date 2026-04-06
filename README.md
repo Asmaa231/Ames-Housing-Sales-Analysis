@@ -59,7 +59,7 @@ Click the image below to watch the interactive dashboard in action:
 The analysis of the **Ames Housing Dataset** reveals several critical trends that directly impact real estate investment 
 and property valuation:
 
- **Market Volatility:** The sharp decline in the annual growth rate (~49.46%) between 2009 and 2010
+ **Market Volatility:** The sharp decline in the annual growth rate (~49.46%) between 2006 and 2010
                      reflects the broader economic impact of the global financial crisis on the Ames housing market.
                   
  **Value Drivers:** There is a strong positive correlation between **Lot Area** and **Sale Price**, but this varies significantly by neighborhood.

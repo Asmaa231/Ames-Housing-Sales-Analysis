@@ -25,7 +25,7 @@ To ensure accessibility, this Power BI dashboard includes a **customized Mobile 
 * Responsive Visuals:** Charts and slicers are rearranged for clarity on smaller screens.
 
 ## 📊 Key Insights
-* Identified a **Sharp Decline** in annual growth rate (approx -49.46%) in (2099-2010).
+* Identified a **Sharp Decline** in annual growth rate (approx -49.46%) in (2006-2010).
 * Visualized the correlation between **Lot Area** and **Sales Price** across different neighborhoods.
 * Ranked the **Top 5 Premium Neighborhoods** by total sales volume.
 
